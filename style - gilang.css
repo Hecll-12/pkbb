@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+.gilang-content {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: aqua;
+}
